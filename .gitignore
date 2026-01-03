@@ -1,0 +1,20 @@
+# Python gereksizleri
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+nlp_env/
+venv/
+.vscode/
+
+# Model Dosyaları (100MB'den büyük olanlar)
+final_sentiment_model/
+sonuc_model/
+*.safetensors
+*.bin
+*.pt
+
+# Veri setleri (İsteğe bağlı, csv büyükse ekle)
+*.csv
