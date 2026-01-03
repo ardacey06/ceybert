@@ -16,4 +16,4 @@ This project is a fine-tuned sentiment analysis model based on **BERTurk** (dbmd
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ardacey06/TurkishBERTiment.git](https://github.com/ardacey06/ceybert)
-   cd TurkishBERTiment
+   cd ceybert
