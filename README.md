@@ -1,6 +1,6 @@
 # 🇹🇷 Ceybert: Turkish Emotion Analysis with BERT
 
-This project is a fine-tuned sentiment analysis model based on **BERTurk** (dbmdz/bert-base-turkish-cased). It classifies Turkish text into 5 distinct emotional categories. 
+This project is a fine-tuned sentiment analysis model based on **BERTurk** (dbmdz/bert-base-turkish-cased). It classifies Turkish text into 5 distinct emotional categories. Live Demo: huggingface.co/spaces/ardacey06/ceybert
 
 ## 🎯 Features
 - **Model:** Fine-tuned BERT architecture specifically for the Turkish language.
