@@ -20,10 +20,12 @@ This project is a fine-tuned sentiment analysis model based on [BERTurk](https:/
    cd ceybert
 
 2. **Create a virtual environment (Recommended):**
+```bash
 python -m venv venv
-# For Windows:
+```
+For Windows:
 venv\Scripts\activate
-# For macOS/Linux:
+For macOS/Linux:
 source venv/bin/activate
 
 3. **Install dependencies:**
