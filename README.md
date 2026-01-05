@@ -14,7 +14,24 @@ This project is a fine-tuned sentiment analysis model based on [BERTurk](https:/
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ardacey06/TurkishBERTiment.git](https://github.com/ardacey06/ceybert)
+   git clone [https://github.com/ardacey06/ceybert.git](https://github.com/ardacey06/ceybert.git)
    cd ceybert
+
+2. **Create a virtual environment (Recommended):**
+python -m venv venv
+# For Windows:
+venv\Scripts\activate
+# For macOS/Linux:
+source venv/bin/activate
+
+3. **Install dependencies:**
+pip install -r requirements.txt
+
+## 💻 Usage
+To run the app locally:
+   ```bash
+   python ceybert.py
+   ```
+> Once the script starts, the interface will be available at `http://127.0.0.1:7860` in your web browser.
