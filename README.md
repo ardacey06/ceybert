@@ -2,7 +2,7 @@
 
 This project is a fine-tuned sentiment analysis model based on [BERTurk](https://github.com/dbmdz/berts) (dbmdz/bert-base-turkish-cased). It classifies Turkish text into 5 distinct emotional categories. 
 
-**[Live Demo: huggingface.co/spaces/ardacey06/ceybert](https://huggingface.co/spaces/ardacey06/ceybert)**
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ardacey06/ceybert)
 ## 🎯 Features
 - **Model:** Fine-tuned BERT architecture specifically for the Turkish language.
 - **Emotions:** Classifies text into: `Mutlu` (Happy), `Üzgün` (Sad), `Kızgın` (Angry), `Sürpriz` (Surprise), and `Tiksinti` (Disgust).
