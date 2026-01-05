@@ -29,7 +29,9 @@ For macOS/Linux:
 source venv/bin/activate
 
 3. **Install dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
 ## 💻 Usage
 To run the app locally:
