@@ -15,6 +15,3 @@ sonuc_model/
 *.safetensors
 *.bin
 *.pt
-
-# Veri setleri (İsteğe bağlı, csv büyükse ekle)
-*.csv
